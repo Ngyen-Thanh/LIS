@@ -1,0 +1,10 @@
+E:\C_Sharp\socket\serverLis\serverLis\bin\Debug\serverLis.exe.config
+E:\C_Sharp\socket\serverLis\serverLis\bin\Debug\serverLis.exe
+E:\C_Sharp\socket\serverLis\serverLis\bin\Debug\serverLis.pdb
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.Properties.Resources.resources
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.csproj.GenerateResource.cache
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.csproj.CoreCompileInputs.cache
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.exe
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.pdb
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.LIS.resources
+E:\C_Sharp\socket\serverLis\serverLis\obj\Debug\serverLis.csproj.AssemblyReference.cache
